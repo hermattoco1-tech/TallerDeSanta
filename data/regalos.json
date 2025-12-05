@@ -1,0 +1,30 @@
+[
+  {
+    "code": "055",
+    "name": "crazy",
+    "description": "regalo",
+    "brand": "nike",
+    "quantityAvailable": 1
+  },
+  {
+    "code": "055",
+    "name": "crazy",
+    "description": "regalo",
+    "brand": "nike",
+    "quantityAvailable": 1
+  },
+  {
+    "code": "1",
+    "name": "marcos",
+    "description": "ropa",
+    "brand": "puma",
+    "quantityAvailable": 2
+  },
+  {
+    "code": "001",
+    "name": "matthew",
+    "description": "regalo",
+    "brand": "puma",
+    "quantityAvailable": 1
+  }
+]
